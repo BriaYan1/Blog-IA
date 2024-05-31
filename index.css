@@ -412,4 +412,9 @@ a{
         padding-left: 1rem;
         padding-right: 1rem;
     }
+
+    .titulo-h1{
+        font-size: 4rem;
+        
+    }
 }
